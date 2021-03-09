@@ -4,7 +4,7 @@ export default function About() {
             {/* <!--about-----------------------> */}
             <section id="about">
                 {/* <!--text----------------------> */}
-                <div class="about-text">
+                <div className="about-text">
                     <h1>About Us</h1>
                     <h2>FreeLancing FrontEnd Developer</h2>
                     <p>Enjoy the ultimate web design editor. Divi is like Photoshop or Sketch for the web. 
@@ -14,7 +14,7 @@ export default function About() {
                     <button>View More Details</button>
                 </div>
                 {/* <!--about-model-----------------> */}
-                <div class="about-model">
+                <div className="about-model">
                     <img alt="model" src="images/about-model.png"/>	
                 </div>
             </section>

@@ -4,18 +4,18 @@ export default function Navbar() {
             {/* <!--navigation--------------------------------> */}
             <nav>
                 {/* <!--logo---> */}
-                <a href="#" class="logo">Linda Mucassi</a>
+                <a href="#" className="logo">Linda Mucassi</a>
                 {/* <!--menu---------> */}
-                <div class="toggle"></div>
-                <ul class="menu">
-                <li class="active"><a href="#main" >Home</a></li>	
+                <div className="toggle"></div>
+                <ul className="menu">
+                <li className=""><a href="#main" >Home</a></li>	
                 <li><a href="#about">About</a></li>	
                 <li><a href="#services">Services</a></li>	
                 <li><a href="#portfolio">Portfolio</a></li>		
                 <li><a href="#contact-form">Contact</a></li>	
                 </ul>
                 {/* <!--language--> */}
-                <a href="#" class="lang">En</a>
+                <a href="#" classNameName="lang">En</a>
             </nav>
         </>
     )

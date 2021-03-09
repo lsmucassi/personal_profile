@@ -4,13 +4,13 @@ export default function Portfolio() {
             {/* <!--portfolio-------------------> */}
             <section id="portfolio">
                 {/* <!--heading-----------> */}
-                <h1 class="p-headind">Portfolio</h1>
+                <h1 className="p-headind">Portfolio</h1>
                 {/* <!--portfolio-container------------> */}
-                <div class="p-container">
+                <div className="p-container">
                     {/* <!--portfolio-box-1--------> */}
-                    <div class="p-box">
+                    <div className="p-box">
                     {/* <!--text---------> */}
-                    <div class="overlay-text">
+                    <div className="overlay-text">
                         <h1>Writting</h1>
                         <p>Client Project</p>	
                     </div>
@@ -18,9 +18,9 @@ export default function Portfolio() {
                     <img src="images/w1.jpg" />
                 </div>
                 {/* <!--portfolio-box-2--------> */}
-                <div class="p-box">
+                <div className="p-box">
                     {/* <!--text---------> */}
-                    <div class="overlay-text">
+                    <div className="overlay-text">
                         <h1>Ideas</h1>
                         <p>Client Project</p>	
                     </div>
@@ -28,9 +28,9 @@ export default function Portfolio() {
                     <img src="images/w2.jpg" />
                 </div>
                 {/* <!--portfolio-box-3--------> */}
-                <div class="p-box">
+                <div className="p-box">
                     {/* <!--text---------> */}
-                    <div class="overlay-text">
+                    <div className="overlay-text">
                         <h1>Music</h1>
                         <p>Client Project</p>	
                     </div>
@@ -38,9 +38,9 @@ export default function Portfolio() {
                     <img src="images/w3.jpg" />
                 </div>
                 {/* <!--portfolio-box-4--------> */}
-                <div class="p-box">
+                <div className="p-box">
                     {/* <!--text---------> */}
-                    <div class="overlay-text">
+                    <div className="overlay-text">
                         <h1>Time</h1>
                         <p>Client Project</p>	
                     </div>
@@ -48,9 +48,9 @@ export default function Portfolio() {
                         <img src="images/w4.jpg" />
                     </div>
                     {/* <!--portfolio-box-5--------> */}
-                    <div class="p-box">
+                    <div className="p-box">
                         {/* <!--text---------> */}
-                        <div class="overlay-text">
+                        <div className="overlay-text">
                             <h1>Creative</h1>
                             <p>Client Project</p>	
                         </div>
@@ -58,9 +58,9 @@ export default function Portfolio() {
                         <img src="images/w5.jpg" />
                     </div>
                     {/* <!--portfolio-box-6--------> */}
-                    <div class="p-box">
+                    <div className="p-box">
                         {/* <!--text---------> */}
-                        <div class="overlay-text">
+                        <div className="overlay-text">
                             <h1>Books</h1>
                             <p>Client Project</p>	
                         </div>

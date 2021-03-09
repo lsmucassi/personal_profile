@@ -1,6 +1,6 @@
 import Head from 'next/head'
 import Banner from '../components/Banner'
-import Button from '../components/button'
+import Button from '../components/Button'
 import Navbar from '../components/Navbar'
 import About from './about'
 import Contact from './contact'

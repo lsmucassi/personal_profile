@@ -16,7 +16,7 @@ class MyDocument extends Document {
                 <Main />
                 <NextScript />
                 <script type="text/javascript" src="js/JQuery3.3.1.js"></script>
-                <script type="text/javascript">
+                {/* <script type="text/javascript">
                 
                     $(document).ready(function(){
                     $('.toggle').click(function(){
@@ -25,7 +25,7 @@ class MyDocument extends Document {
                         $('nav ul').toggleClass('active-menu')    
                     })
                 });
-                </script>
+                </script> */}
             </body>
         </Html>
         )
