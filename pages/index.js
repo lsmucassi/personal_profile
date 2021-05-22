@@ -13,7 +13,7 @@ export default function Home() {
 
       <main className={styles.main}>
         <h1 className={styles.title}>
-          My Portfolio Site is under construction</a>
+          My Portfolio Site is under construction
         </h1>
         <p>Be patient will you?!</p>
       </main>
