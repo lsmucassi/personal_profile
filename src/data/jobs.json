@@ -1,0 +1,38 @@
+[
+  {
+    "id": 0,
+    "jobTitle": "Software Engineer",
+    "company": "Vodacom",
+    "link": "https://www.vodacom.co.za/",
+    "from": "May 2021",
+    "till": "present",
+    "description": "I design, plan and develope backend payment systems on AWS for ERP services, I also migrate old services and host them on AWS."
+  },
+  {
+    "id": 1,
+    "jobTitle": "Software Support Engineer",
+    "company": "Atos",
+    "link": "https://atos.net/en/",
+    "from": "Oct 2019",
+    "till": "April 2021",
+    "description": "Worked in a team supporting a real time intelligence application for a big South African Telco company, resolving incidents, deploying and managing applications, managing servers"
+  },
+  {
+    "id": 2,
+    "jobTitle": "Junior Software Engineer",
+    "company": "First National Bank",
+    "link": "https://www.fnb.co.za/",
+    "from": "Feb 2019",
+    "till": "May 2019",
+    "description": "I was based on a team responsible for collecting and issuing personal loans. Develop java based applications, to solve all the related business scenarios."
+  },
+  {
+  "id": 3,
+  "jobTitle": "Junior Software Engineer",
+  "company": "First National Bank",
+  "link": "https://www.fnb.co.za/",
+  "from": "Feb 2018",
+  "till": "May 2018",
+  "description": "Worked with a team dealing with processing user requests for business-to-business transactions and process. Develop applications to test and validate user information and handle user requests."
+}
+]

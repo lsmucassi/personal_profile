@@ -1,7 +1,14 @@
-# Responsive Portfolio Website Alexa
-## [Watch it on youtube](https://youtu.be/27JtRAI3QO8)
-### Responsive Portfolio Website Alexa
-Responsive Portfolio Website Using Html, Css and JavaScript, With a beautiful user interface. It contains a Header, Home, About, Skills, Qualification, Services, Portfolio, Project in mind, Testimonial, Contact and Footer.
-Don't forget to join the channel for more videos like this. [Bedimcode](https://www.youtube.com/c/Bedimcode)
+<h1 align="center">
+  schadler.dev v1
+</h1>
 
-![Resume cv](/preview.png)
+<p align="center">
+  The first iteration of <a href="https://schadler.dev" target="_blank">schadler.dev</a> built with <a href="https://www.reactjs.org/" target="_blank">ReactJS</a> and hosted with <a href="https://firebase.google.com/" target="_blank">Firebase</a>
+</p>
+
+Google PageSpeed Result:
+![image](https://github.com/DonkeyKongJr/portfolio/blob/master/readme-content/pagespeed.png)
+
+<p>This Portfolio is inspired by <a href="https://brittanychiang.com/" target="_blank">https://brittanychiang.com/</a></p>
+
+![image](https://github.com/DonkeyKongJr/portfolio/blob/master/readme-content/frontpage.png)

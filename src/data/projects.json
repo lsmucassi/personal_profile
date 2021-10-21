@@ -1,0 +1,38 @@
+[
+  {
+    "name": "Dogo",
+    "type": "NextJS + CMS",
+    "description": "A pet company website built using NextJS/React application using Contentful CMS API to display pet information",
+    "technologies": ["ReactJS", "HTML", "CSS", "NextJS", "Contentful"],
+    "gitHub": "https://github.com/lsmucassi/nextjs-dado",
+    "url": "https://zealous-torvalds-caf193.netlify.app/",
+    "backgroundImage": "portfolio.png"
+  },
+  {
+    "name": "Mucassi.Constructions",
+    "type": "Construction Website",
+    "description": "A construction company website for Mucassi.constructions",
+    "technologies": ["HTML", "CSS", "Javascript"],
+    "gitHub": "https://github.com/lsmucassi/mucassidotcom",
+    "url": "https://www.mucassi.com/",
+    "backgroundImage": "portfolio.png"
+  },
+  {
+    "name": "Terminal Pretty Printer",
+    "type": "Python Printing App",
+    "description": "a tool to help with displaying nice formatted messages for debugging in python, from warnings, errors and messages.",
+    "technologies": ["Python", "ZSH", "BASH"],
+    "gitHub": "https://github.com/lsmucassi/pretty_printer",
+    "url": null,
+    "backgroundImage": "portfolio.png"
+  },
+  {
+    "name": "MyTASA",
+    "type": "Student Organisation Website",
+    "description": "A student's organisation website",
+    "technologies": ["HTML", "CSS", "Javascript"],
+    "gitHub": "https://github.com/lsmucassi/mytasa",
+    "url": "https://www.mytasa.org/",
+    "backgroundImage": "portfolio.png"
+  }
+]
