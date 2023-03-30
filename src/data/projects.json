@@ -1,5 +1,23 @@
 [
   {
+    "name": "Easy Ops",
+    "type": "Python + javascript + Typescript + Go",
+    "description": "Since I have been working on AWS I have realized that when I work on a new project, there is always code repeating itself from the previous projects, I started this project to enhance my AWS skills while increasing my development time by making all the basic AWS function a library, functionalities as simple as reading from an AWS resource, writing to and AWS resource and such. This Library is currently for Python developers but I am looking to collab with other developers to add more languages.",
+    "technologies": ["Python", "Javascript", "Typescript", "Go", "Java"],
+    "gitHub": "https://github.com/lsmucassi",
+    "url": "https://github.com/lsmucassi",
+    "backgroundImage": "portfolio.png"
+  },
+  {
+    "name": "Data Peek",
+    "type": "Python",
+    "description": "This project was inspired by how much data I print to the console during development and testing, so I decided to create a library to help me pretty-print data to the console/terminal such as JSON, pans tables, and other data structures, and log information using colors to make it easier to read errors and warnings. I am working on publishing this on Pypi soon.",
+    "technologies": ["Python", "Pandas", "Numpy", "Linux"],
+    "gitHub": "https://github.com/lsmucassi/datapeek",
+    "url": "https://github.com/lsmucassi/datapeek",
+    "backgroundImage": "portfolio.png"
+  },
+  {
     "name": "Dogo",
     "type": "NextJS + CMS",
     "description": "A pet company website built using NextJS/React application using Contentful CMS API to display pet information",
