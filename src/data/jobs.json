@@ -1,24 +1,33 @@
 [
-  {
+    {
     "id": 0,
+    "jobTitle": "Fullstack Developer & Data Analyst",
+    "company": "Ikeja Wireless",
+    "link": "https://www.ikeja.co.za/",
+    "from": "Dec 2022",
+    "till": "present",
+    "description": "I design, develop and maintain internal web applications, I also design databases and analyse data pertaining networks, revenue and customer usage."
+  },
+  {
+    "id": 1,
     "jobTitle": "Software Engineer",
     "company": "Vodacom",
     "link": "https://www.vodacom.co.za/",
     "from": "May 2021",
-    "till": "present",
-    "description": "I design, plan and develope backend payment systems on AWS for ERP services, I also migrate old services and host them on AWS."
+    "till": "Nov 2022",
+    "description": "I designed, planed and developed backend payment systems on AWS for ERP services, I also migrated and improved old services and host them on AWS."
   },
   {
-    "id": 1,
+    "id": 2,
     "jobTitle": "Software Support Engineer",
     "company": "Atos",
     "link": "https://atos.net/en/",
     "from": "Oct 2019",
     "till": "April 2021",
-    "description": "Worked in a team supporting a real time intelligence application for a big South African Telco company, resolving incidents, deploying and managing applications, managing servers"
+    "description": "Worked in a team supporting a real time intelligence application for a big South African Telco company, resolving incidents, deploying and managing applications, managing servers."
   },
   {
-    "id": 2,
+    "id": 3,
     "jobTitle": "Junior Software Engineer",
     "company": "First National Bank",
     "link": "https://www.fnb.co.za/",
@@ -27,7 +36,7 @@
     "description": "I was based on a team responsible for collecting and issuing personal loans. Develop java based applications, to solve all the related business scenarios."
   },
   {
-  "id": 3,
+  "id": 4,
   "jobTitle": "Junior Software Engineer",
   "company": "First National Bank",
   "link": "https://www.fnb.co.za/",
